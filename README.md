@@ -27,12 +27,12 @@
             <h1>JOHN JESANI</h1>
             <p class="tagline">Product Owner | Product Manager | Change Manager</p>
             <div class="contact">
-                Amsterdam, NL | <a href="mailto:john.jesani@gmail.com">john.jesani@gmail.com</a> | <a href="https://linkedin.com/in/johnjesani" target="_blank">LinkedIn</a>
+                Amsterdam, NL | john.jesani@gmail.com | <a href="https://linkedin.com/in/johnjesani" target="_blank">LinkedIn</a>
             </div>
         </header>
 
         <div class="summary">
-            <strong>10+ years of experience</strong> delivering complex regulatory and data-driven platforms (EMIR Refit, SFTR, MiFID II). Expert in bridging Business and IT, shaping automation use cases, and guiding teams through transformation.
+            Product Owner and Business Analyst with over 10 years of experience delivering complex regulatory and data-driven platforms (including EMIR Refit, SFTR, and MiFID II). Expert in bridging Business and IT to shape automation use cases and guide teams through change.
         </div>
 
         <div class="grid">
