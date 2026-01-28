@@ -32,8 +32,9 @@
             </div>
         </header>
 
-        <div class="section-title">Strategic Project Portfolio</div>
-        <p>Expert in delivering mission-critical regulatory and clearing platforms. Proven track record in managing complex transitions for <strong>LCH ForexClear</strong> and <strong>JSCC</strong>, alongside global <strong>G20 Regulatory Reporting</strong> initiatives including EMIR, MAS (Singapore), HKMA (Hong Kong), and Bank of Israel.</p>
+        <div class="section-title">Professional Profile</div>
+        <p>Product Owner and Business Analyst with 10+ years of experience delivering complex regulatory and data-driven platforms (including EMIR Refit, SFTR, and MiFID II) in highly regulated environments. Proven track record leading cross-functional squads and driving end-to-end product delivery, from translating complex business and regulatory requirements into scalable, high-quality solutions to ensuring measurable improvements in accuracy, efficiency, and operational control.
+        Expert in delivering mission-critical regulatory and clearing platforms. Proven track record in managing complex transitions for <strong>LCH ForexClear</strong> and <strong>JSCC</strong>, alongside global <strong>G20 Regulatory Reporting</strong> initiatives including EMIR, MAS (Singapore), HKMA (Hong Kong), and Bank of Israel.</p>
 
         <div class="grid">
             <div>
