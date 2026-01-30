@@ -25,7 +25,7 @@
 <body>
     <div class="card">
         <header>
-            <h1>JOHN JESANI</h1>
+            <h1>JOHN P. JESANI</h1>
             <p class="tagline">Product Owner | Product Manager | Change Manager</p>
             <div class="contact-info">
                 Amsterdam, NL | john.jesani@gmail.com | <a href="https://linkedin.com/in/johnjesani" target="_blank" style="color:#1a2a6c; text-decoration:none; font-weight:bold;">LinkedIn Profile</a>
